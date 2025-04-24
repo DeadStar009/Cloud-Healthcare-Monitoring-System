@@ -50,7 +50,7 @@ CN_Project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/KMohnishM/CN_Project.git
+   git clone https://github.com/DeadStar009/Cloud-Healthcare-Monitoring-System.git
    cd CN_Project
    ```
    
